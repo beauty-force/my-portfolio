@@ -1,5 +1,5 @@
-# My Full stack developer's portfolio [Live link](https://sunshine0213.github.io/my-portfolio/)
-- Designed & Developed by [sunshine](https://github.com/sunshine0213)
+# My Full stack developer's portfolio [Live link](https://github.com/beauty-force/my-portfolio/)
+- Designed & Developed by [beauty-force](https://github.com/beauty-force)
 
 ### Sections
 - Home banner(Name, title, and a summary about me)
@@ -26,7 +26,7 @@
 
 ### How to run Local
 - Clone the repository
-    - git clone https://github.com/sunshine0213/my-portfolio.git
+    - git clone https://github.com/beauty-force/my-portfolio
 - Get dependency
     - yarn add gh-pages && npm install gh-pages — save-dev | node version 16.20.0
 - run
